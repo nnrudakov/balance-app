@@ -1,4 +1,4 @@
-package nr.rudnik.balanceapp;
+package app.rudnik.balanceapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
